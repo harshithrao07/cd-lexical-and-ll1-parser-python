@@ -1,0 +1,7 @@
+int main() 
+begin int n; 
+do
+    expr=expr+expr; 
+    n=exp; 
+while(exp) 
+return(n) end
